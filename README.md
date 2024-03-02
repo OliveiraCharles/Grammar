@@ -53,7 +53,7 @@ A (A --> )
 ### 1. Clone o repositório do projeto
 
 ```sh
-git clone https://path.to/project/repository.git gramatica
+git clone https://github.com/OliveiraCharles/Grammar.git gramatica
 
 cd gramatica
 ```
