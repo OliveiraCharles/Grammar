@@ -4,7 +4,7 @@ Este projeto tem como objetivo principal por em prática os conceitos aprendidos
 
 Dado:
 
-$$G=(V_1*\Sigma_1*P_1*S)$$
+$$G=(V_1 * \Sigma_1 * P_1 * S)$$
 
 Onde:
 
