@@ -92,9 +92,21 @@ Neste projeto, utilizamos o fluxo de trabalho Git Flow. Se você não está fami
 
 3. **Ramos de feature**: São criados a partir do ramo develop e é onde o trabalho de novas funcionalidades acontece.
 
+```sh
+git flow feature start <feature-namme>
+```
+
 4. **Ramos de release**: São criados a partir do develop para testes finais em preparação para um lançamento.
 
+```sh
+git flow release start <feature-namme>
+```
+
 5. **Ramos de hotfix**: São criados a partir do master se um problema é encontrado em produção e precisa ser corrigido.
+
+```sh
+git flow hotfix start <feature-namme>
+```
 
 Por favor, siga o fluxo de trabalho Git Flow ao contribuir para este projeto.
 
